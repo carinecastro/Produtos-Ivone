@@ -64,11 +64,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <h2 class="w3-text-green">PRODUTOS IVONE</h2>
 
     <div class="w3-content w3-section" style="max-width:500px">
-      <img class="mySlides" src="C:\Users\carin\Downloads\IMG-20220803-WA0012.jpg" style="width:100%">
-      <img class="mySlides" src="C:\Users\carin\Downloads\IMG-20220803-WA0005.jpg" style="width:100%">
-      <img class="mySlides" src="C:\Users\carin\Downloads\IMG-20220803-WA0010.jpg" style="width:100%">
-      <img class="mySlides" src="C:\Users\carin\Downloads\IMG-20220803-WA0004.jpg" style="width:100%">
-      <img class="mySlides" src="C:\Users\carin\Downloads\IMG-20220803-WA0011.jpg" style="width:100%">
+      <img class="mySlides" src="Produtos Ivone 1/IMG-20220803-WA0012.jpg" style="width:100%">
+      <img class="mySlides" src="Produtos Ivone 1/IMG-20220803-WA0005.jpg" style="width:100%">
+      <img class="mySlides" src="Produtos Ivone 1/IMG-20220803-WA0010.jpg" style="width:100%">
+      <img class="mySlides" src="Produtos Ivone 1/IMG-20220803-WA0004.jpg" style="width:100%">
+      <img class="mySlides" src="Produtos Ivone 1/IMG-20220803-WA0004.jpg" style="width:100%">
     </div>
     <script>
     var myIndex = 0;
